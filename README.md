@@ -3,3 +3,4 @@
 ## GITHUB
 -----------------------
 ### Como usar o GitHub
+* Comando git push
